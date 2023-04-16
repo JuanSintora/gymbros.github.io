@@ -1,2 +1,2 @@
-# visualizaci-n-de-landing-page
+# visualizacion-de-landing-page
 landing page de gym
